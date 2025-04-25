@@ -1,4 +1,4 @@
-# 🎰 Tragamonedas por Consola
+# 🎰 Tragamonedas
 
 Trabajo práctico N°1 para la materia **Introducción a la Programación**.  
 El objetivo era simular una máquina tragamonedas básica con lógica y entrada por teclado.
